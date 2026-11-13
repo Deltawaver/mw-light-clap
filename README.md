@@ -2,8 +2,6 @@
 
 # 👏 💡 MW-Light Clap
 
-**Два хлопка. Один Bluetooth-канал. Свет переключён.**
-
 Локальное управление музыкальной люстрой MW-Light с компьютера на Windows.
 
 ![Windows](https://img.shields.io/badge/platform-Windows-0078D4)
